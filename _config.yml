@@ -1,0 +1,5 @@
+# _config.yml
+
+title: Your Site Title
+description: A brief description of your site
+theme: jekyll-theme-minimal # You can choose a different theme
