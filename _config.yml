@@ -5,38 +5,36 @@ title: Clay's GitHub Pages
 description: These pages will include all of my projects.
 theme: jekyll-theme-minimal
 
-header_pages: navigation.yml
-
 minima:
   primary_color: '#3498db'
   accent_color: '#e74c3c'
   text_color: '#555555'
   font: 'Lato, sans-serif'
 
-author:
-  name: Clayton
-  bio: Software Developer
-  location: City, Country
-  email: your.email@example.com
-  links:
-    - label: GitHub
-      url: https://github.com/claytonius30
-    - label: LinkedIn
-      url: https://www.linkedin.com/in/yourusername/
+# author:
+#   name: Clayton
+#   bio: Software Developer
+#   location: City, Country
+#   email: your.email@example.com
+#   links:
+#     - label: GitHub
+#       url: https://github.com/claytonius30
+#     - label: LinkedIn
+#       url: https://www.linkedin.com/in/yourusername/
 
-social:
-  - title: GitHub
-    url: https://github.com/claytonius30
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/yourusername/
+# social:
+#   - title: GitHub
+#     url: https://github.com/claytonius30
+#   - title: LinkedIn
+#     url: https://www.linkedin.com/in/yourusername/
 
 footer:
   text: 'Copyright © 2024 Clay. All rights reserved.'
 
-include:
-  - _pages/projects.md
-  - _posts/
+# include:
+#   - _pages/projects.md
+#   - _posts/
 
-plugins:
-  - jekyll-jalpc
-search: true
+# plugins:
+#   - jekyll-jalpc
+# search: true
