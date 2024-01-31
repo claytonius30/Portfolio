@@ -5,6 +5,8 @@ title: Clay's GitHub Pages
 description: These pages will include all of my projects.
 theme: jekyll-theme-minimal
 
+header_pages: navigation.yml
+
 minima:
   primary_color: '#3498db'
   accent_color: '#e74c3c'
