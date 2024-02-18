@@ -1,3 +1,3 @@
 # claytonius30.github.io
 
-View my: [Portfolio](claytonius30.github.io/portfolio)
+View my: [Portfolio](https://claytonius30.github.io/portfolio)
