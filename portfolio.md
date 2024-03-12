@@ -7,5 +7,10 @@ This is a link to my Bingo game: [Bingo_Game](https://github.com/claytonius30/bi
 </video>
 
 This is a link to my Character Quest game: [Character Quest](https://github.com/claytonius30/character_quest)
-<br />
+<video width="640" height="360" controls>
+  <source src="video1795529937.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 This is a link to my static website: [Website](https://github.com/claytonius30/clay-website)
