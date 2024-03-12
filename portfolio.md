@@ -7,3 +7,5 @@ This is a link to my Bingo game: [Bingo_Game](https://github.com/claytonius30/bi
 </video>
 
 This is a link to my Character Quest game: [Character Quest](https://github.com/claytonius30/character_quest)
+
+This is a link to my static website: [Website](https://github.com/claytonius30/clay-website)
